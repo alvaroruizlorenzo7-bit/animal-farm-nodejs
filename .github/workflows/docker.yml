@@ -40,4 +40,4 @@ jobs:
           push: true
           tags:
             alvaroruizlorenzo7/animal-farm-nodejs:latest
-            ghcr.io/alvaroruizlorenzo7/animal-farm-nodejs:latest
+            ghcr.io/alvaroruizlorenzo7-bit/animal-farm-nodejs:latest
